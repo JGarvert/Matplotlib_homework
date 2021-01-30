@@ -7,15 +7,15 @@ A subset study was done on the drug Capomulin with a sample mouse s185.
 ## Some observations:
 1. The gender amonst mice (including time periods) is close to equal.
 
-![Analysis](Images/Gender_Pie.jpg)
+![some text](https://github.com/JGarvert/Matplotlib_homework/blob/main/Images/Gender_Pie.JPG)
 
 
 2. Infubinol had the only mouse with a quartile outlier.  While this doesn't necessarily indicate that Infubinol should be ruled out as a viable drug regmin for the study, it would infer that further investigation into that mouse would be helpful.
 
-![Analysis](Images/Box_plot.jpg)
+![some text](https://github.com/JGarvert/Matplotlib_homework/blob/main/Images/Box_plot.JPG)
 
 
 3. Capomulin has worked well for a single sample mouse.
 
-![Analysis](Images/Line_plot.jpg)
+![some text](https://github.com/JGarvert/Matplotlib_homework/blob/main/Images/Line_plot.JPG)
 
